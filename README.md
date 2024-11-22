@@ -166,9 +166,11 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 <table>
 <tr>
 <td>
+    
 ![Screenshot 2024-11-15 135901](https://github.com/user-attachments/assets/c68d7ca6-f231-443b-a231-b9ee6ac9948b)
 </td>
 <td>
+    
 ![Screenshot 2024-11-15 135915](https://github.com/user-attachments/assets/565bb509-caa6-4f4e-a26f-fc3ec3847a3f)
 </td>  
 </tr>
